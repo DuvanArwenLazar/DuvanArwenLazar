@@ -1,6 +1,6 @@
-## console.log("Hello World!")
+## Hello World! 😄
 
-Software Developer | Pasionate about artificial intelligence and data analysis
+I'm Duvan, software developer. I really like artificial intelligence and data analysis. I'm always learning new things and doing projects.
 <!--
 **DuvanArwenLazar/DuvanArwenLazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
